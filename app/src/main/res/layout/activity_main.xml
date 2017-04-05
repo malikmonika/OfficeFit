@@ -1,18 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="scu.edu.mmalik1.MainActivity">
-
-
-    <android.support.v7.widget.RecyclerView
+    android:layout_height="match_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/listView" />
+        tools:context="monika.malik.com.officefit.MainActivity"
+        android:id="@+id/progressholder">
 
-</RelativeLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/steplayout"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="false">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="30dp"
+                    android:text="STEPS"
+                    android:id="@+id/steps"
+                    android:layout_row="1"
+                    android:layout_column="7"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:layout_gravity="left"
+                    android:textColor="#003366" />
+
+                <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="230dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_row="0"
+                    android:layout_column="8">
+                    <ProgressBar
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/stepsprogress"
+                        android:layout_column="8"
+                        android:layout_gravity="left"
+                        style="@android:style/Widget.ProgressBar.Horizontal"
+                        />
+                    <TextView
+                        android:id="@+id/stepprogresstext"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@android:color/transparent"
+                        android:textAlignment="center"
+                        android:layout_centerVertical="true"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:textColor="#003366" />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="false"
+            android:layout_alignParentStart="false"
+            android:id="@+id/waterlayout"
+            android:layout_marginTop="95dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:weightSum="1">
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="30dp"
+                    android:text="WATER"
+                    android:id="@+id/water"
+                    android:layout_row="2"
+                    android:layout_column="7"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:layout_below="@+id/gridLayout"
+                    android:layout_alignParentStart="true"
+                    android:textColor="#003366"
+                    android:layout_marginTop="5dp" />
+
+                <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="230dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_alignTop="@+id/water"
+                    android:layout_row="2"
+                    android:layout_column="8">
+                    <ProgressBar
+                        style="@android:style/Widget.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="70dp"
+                        android:id="@+id/waterprogress"
+                        android:layout_row="1"
+                        android:layout_column="8"
+                        android:layout_gravity="left"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_alignParentEnd="false"
+                        android:background="#a4a4a4" />
+
+                    <TextView
+                        android:id="@+id/waterprogresstext"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@android:color/transparent"
+                        android:textAlignment="center"
+                        android:layout_centerVertical="true"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:textColor="#003366" />
+
+                </RelativeLayout>
+
+                <Button
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="44dp"
+                    android:layout_height="40dp"
+                    android:text="+1"
+                    android:id="@+id/button"
+                    android:layout_marginTop="0dp"
+                    android:layout_weight="0.25"
+                    android:layout_marginLeft="9dp"
+                    android:onClick="addwater"
+                    android:background="#FFCC00"
+                    android:textColor="#003366" />
+
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_alignParentBottom="false"
+            android:layout_alignParentStart="false"
+            android:id="@+id/todolayout"
+            android:layout_marginTop="180dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="TO DO LIST"
+                android:id="@+id/textView4"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#003366"
+                android:textAlignment="center" />
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/listView" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</ScrollView>

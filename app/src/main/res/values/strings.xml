@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">Photo Notes</string>
-    <string name="add">Add Photos</string>
-    <string name="uninstall">UnInstall</string>
+    <string name="app_name">OfficeFit</string>
+    <string name="setting">Profile Setings</string>
+    <string name="unins">Uninstall</string>
+    <string name="health">Health Profile</string>
+    <string name="reminder">Reminders</string>
+    <string name="noti">Notifications</string>
 </resources>

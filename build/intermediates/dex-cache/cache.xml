@@ -2,249 +2,60 @@
 <items version="2" >
 
     <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_85b67d620855447a34f7f3271300b2682fe0b6a4/classes.dex" />
+        jar="/Users/abhimanyusingh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_cc00624dbdc7799b55214db4d794ee537cfd42d8.jar" />
     </item>
     <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_97512ffa167cdc0a34d1801c4f4eb75e60ec17fd/classes.dex" />
+        jar="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_8dd241eea804b56c1bea4b9fbd70d0a541227152.jar" />
     </item>
     <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_911abc61c8c71d8256ecab2fbad3a7671f97fc40/classes.dex" />
+        jar="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-23.4.0_f0096a11e5c604dff1d504e5512343324e28d5bd.jar" />
     </item>
     <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="0259245abd988eab8b8c6b96994d8d21a8e41717">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_743f8670127f5cde033603bc451738508fd0116e/classes.dex" />
+        jar="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_07f20fd75db6a447d0aa6f970e6f61cb88a20c73.jar" />
     </item>
     <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="04de44f90606c77f3b28cf44861f306290505aac">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_3250174d68c387749bfb18f6de684f3d0de316ff/classes.dex" />
+        jar="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.4.0_2fb210ef78f2341d6413333d11924c09ca2b7d95.jar" />
     </item>
     <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_be4d579e9e84bfaae018859e1aa078f2896b12f1/classes.dex" />
+        jar="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.4.0_21adf3c6811152ab0e3f97a1ad4379798d5587e2.jar" />
     </item>
     <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_4cfa6d5838e4d6d8390259ac9886d1c9464e2c3d/classes.dex" />
+        jar="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.4.0_bf51f10a9abb09ae5829aece43f58d1f6c71e1b7.jar" />
     </item>
     <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_c9bacf1e09be0c28ed9d654b6a3363901599ac90/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_444344bd22d9538dd535288223a37bcf43ce3e48/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_52f25f8f9af0811d87a17a582fac5e191f206625/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_fc29c3d75ed4ed92ce821b3364122af18531197a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_78695bb2108ef99abc4cd32863812134c3c7ac00/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_63de34a97ad19df0bc40edde64561b1852d690e0/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_9e66369b40ceb7728367355a7e08f662b45ab64e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_47334ff67b855710a127f2d1c999c092fa95faa8/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_6d4d3c0561b02458fd34d88dd796a3e3da7f4d1f/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_6b4ac1a6ef14d774907f9b068b6782bef90cc278/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_2bc94a5217ba8b89a37f0e47b8911e0f6475687e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_00086fbc4344b2823d42a2fe5ebef29a297d06a1/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_73e35a49329bada884602445b38a863e17dae6a0/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_fc9cebd69d99252a8a7cfedf478e8d2601a52e72/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.2.1_5b7d1f01d6df6c4fc95913c4b2d54f9ce92d9fd5/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_6883aa302962e4eab8481fb06e813335ea76487c/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_b0e60165ae9eea54ed01292c543c80e06bcdd4b6/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_5a9d51713ca06dc7fede1c0a06deb0fdc378be18/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_a648099fa99803e50f987fabbd1a220be4d7dcf0/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_5d668564dac81497ae9705fc485fc70b3cbf0fcd/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="c3f3e7a45a7e6ba8aa855078f8ad3b7021118861">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6356a9f57d17ef539c1c000b5498492e92269bf2/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_88b8c758d8d0f1f9fbd4da9bf9336c87ed505edd/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_82205c04422429637acf4c89fec44276839374ee/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_09d29d916721d1896f95992fb810f033b49003be/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_0ca15b2abfb9bf86c1f9f5a7ab00192440c6e98b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_96c90fa15f65568ec6ee9edf873eb4062eb3b9a5/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_f9919fea1beac39b88ee5c08a8f51ea858d9e150/classes.dex" />
-    </item>
-    <item
-        jar="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="/Users/abhimanyusingh/Desktop/new code/malik.monika.pa4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_ea02543ca7a6fd62296fe6f9411de21e50476c84/classes.dex" />
+        jar="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/abhimanyusingh/Desktop/ms4-group-20-OfficeFit-source/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.4.0_8889c4cc2fcc4ec1c3eeec7c8d46713d010e9ca4.jar" />
     </item>
 
 </items>
