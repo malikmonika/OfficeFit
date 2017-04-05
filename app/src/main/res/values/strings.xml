@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo Notes</string>
+    <string name="add">Add Photos</string>
+    <string name="uninstall">UnInstall</string>
+</resources>
